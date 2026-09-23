@@ -1,0 +1,34 @@
+/* 改自 https://lab.magiconch.com 的排版 */
+html {
+	font-family: Avenir, sans-serif;
+	line-height: 1.4;
+}
+body {
+	margin: 1em;
+}
+a {
+	color: #0054dd;
+	text-decoration: none;
+}
+a,
+b,
+strong,
+i,
+em {
+	margin: 0 .2em;
+}
+code {
+    font-family: monospace;
+}
+footer {
+    text-align: center;
+    padding: 7em 0 4em;
+    color: #999;
+    font-size: 12px;
+    line-height: 20px
+}
+footer a {
+	display: inline-block;
+	margin: 0 1em;
+	color: #999;
+}
