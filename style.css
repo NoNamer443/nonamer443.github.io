@@ -46,4 +46,5 @@ input {
 button {
 	font-size: 2em;
 	border-radius: 10%;
+	border: 0;
 }
