@@ -34,4 +34,10 @@ footer a {
 }
 input {
 	display: block;
+	background-color: lightgray;
+	margin: 1em 0;
+}
+.center {
+	margin-left: auto;
+	margin-right: auto;
 }
