@@ -25,7 +25,7 @@ footer {
     padding: 7em 0 4em;
     color: #999;
     font-size: 12px;
-    line-height: 20px
+    line-height: 20px;
 }
 footer a {
 	display: inline-block;
@@ -45,4 +45,5 @@ input {
 }
 button {
 	font-size: 2em;
+	border-radius: 10%;
 }
