@@ -34,8 +34,8 @@ footer a {
 }
 input {
 	display: block;
-	background-color: lightgray;
 	margin: 1em 0;
+	font-size: 2em;
 }
 .center {
 	margin-left: auto;
