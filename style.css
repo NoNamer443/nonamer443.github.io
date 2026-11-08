@@ -35,7 +35,6 @@ footer a {
 input {
 	display: block;
 	margin: 1em 0;
-	font-size: 2em;
 }
 .center {
 	display: block;
@@ -44,7 +43,6 @@ input {
 	text-align: center;
 }
 button {
-	font-size: 2em;
 	border-radius: 10%;
 	border: 0;
 }
