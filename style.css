@@ -17,8 +17,11 @@ i,
 em {
 	margin: 0 .2em;
 }
+kbd,
+samp,
+var,
 code {
-    font-family: monospace;
+    font-family: ui-monospace, Consolas, "SF Mono", Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", "Roboto Mono", monospace;
 }
 footer {
     text-align: center;
